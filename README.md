@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=I+build+responsive+web+apps;I+love+React+%2F+Node.js;Full-Stack+Web+Developer;Open+to+Internships+%2F+Projects" alt="Typing SVG" />
 </p>
 
+
+
 ---
 
 ## 🌟 About Me
@@ -66,6 +68,10 @@ This is a visual representation of my GitHub activity – the darker the green, 
 <p align="center">
   <img src="https://ghchart.rshah.org/mohd-shadav" alt="GitHub Contribution Graph" />
 </p>
+
+## 📊 Last 2 Months Activity (via WakaTime)
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&range=last_60_days)](https://wakatime.com/@your-wakatime-username)
 
 ---
 
