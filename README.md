@@ -68,16 +68,16 @@
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohd-shadav-aa53aa28b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:m@gmail.com">
+  <a href="mailto:muhammadshadav166@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/mohd-shadav">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
   </a>
-  <a href="https://mohd-shada.app" target="_blank">
+  <a href="https://mohd-shadav-portfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-green?logo=web&logoColor=white" />
   </a>
 </p>
