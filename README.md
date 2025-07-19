@@ -61,13 +61,6 @@
 </p>
 
 
-## 🟢 Daily Contribution Heatmap
-
-This is a visual representation of my GitHub activity – the darker the green, the more I’ve committed on that day.
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/mohd-shadav" alt="GitHub Contribution Graph" />
-</p>
 
 
 ---
