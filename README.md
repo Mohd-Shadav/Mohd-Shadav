@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Shadav</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Orai, Uttar Pradesh</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Jhansi, Uttar Pradesh</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=I+build+responsive+web+apps;I+love+React+%2F+Node.js;Full-Stack+Web+Developer;Open+to+Internships+%2F+Projects" alt="Typing SVG" />
@@ -56,6 +56,15 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohd-shadav&theme=tokyonight&hide_border=true" />
+</p>
+
+
+## 🟢 Daily Contribution Heatmap
+
+This is a visual representation of my GitHub activity – the darker the green, the more I’ve committed on that day.
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/mohd-shadav" alt="GitHub Contribution Graph" />
 </p>
 
 ---
