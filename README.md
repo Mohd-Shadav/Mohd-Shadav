@@ -90,5 +90,11 @@
   <img src="https://komarev.com/ghpvc/?username=mohd-shadav&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-shadav" />
 </p>
 
-```md
+md
 ![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+
+
+why the 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohd-shadav&theme=tokyonight&hide_border=true" />
+</p>
