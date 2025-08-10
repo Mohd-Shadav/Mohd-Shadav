@@ -87,11 +87,12 @@
 ## 📍 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohd-shadav&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-shadav" />
+<!--   <img src="https://komarev.com/ghpvc/?username=mohd-shadav&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-shadav" /> -->
+  ![Visitor Count](https://komarev.com/ghpvc/?username=mohd-shadav&color=brightgreen)
 </p>
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+
 
 
 
